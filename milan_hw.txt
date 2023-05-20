@@ -57,6 +57,7 @@ Used ISA addresses:
 
 $20  ISA interrupt controller
 $60  Keyboard
+$83  POST code
 $A0  ISA interrupt controller
 $15C PC87308 SuperIO configuration registers
 $1F0 primary IDE interface
